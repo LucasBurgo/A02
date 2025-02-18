@@ -1,4 +1,4 @@
-# Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
+Bold each of the Glossary words as you use them.  Bold ONLY the glossary word.
 <ul>
 <li><strong>Branch</strong> - The copy of a code that would divege from the main code, used by developers to fix or improve their code.</li>
   
